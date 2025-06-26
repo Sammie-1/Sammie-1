@@ -17,7 +17,7 @@ I'm a passionate **developer** with hands-on experience across **React.js**, **T
 ## 📫 Contact Me
 
 - 📨 **Email:** samuelifeoluwa914@gmail.com  
-- 🐦 **Twitter/X:** [@cryptogeekB](https://twitter.com/cryptogeekB)  
+- 🐦 **Twitter/X:** [@cryptogeekB](https://twitter.com/sam_mmie2)  
 - 💬 **Telegram:** [@sammie12224](https://t.me/sammie12224)  
 
 ---
