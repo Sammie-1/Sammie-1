@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samuel Oyegbami
 
-I'm a passionate **developer** with hands-on experience across **React.js**, **Express.js**, and **MongoDB**. Currently aspiring to break into **DevOps**, and I also write about **Web3 technologies** and development trends.
+I'm a passionate **developer** with hands-on experience across **React.js**, **Typescript**, **Express.js**, and **MongoDB**. Currently aspiring to break into **DevOps**, and I also write about **Web3 technologies** and development trends.
 
 ---
 
