@@ -6,7 +6,7 @@ I'm a passionate **developer** with hands-on experience across **React.js**, **T
 
 ## 🚀 Tech Stack
 
-- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS, JavaScript
+- **Frontend:** Typescript, React.js, HTML5, CSS3, Tailwind CSS, JavaScript
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Tools & DevOps (aspiring):** Git, GitHub, Docker (learning), Linux CLI, CI/CD (learning)
