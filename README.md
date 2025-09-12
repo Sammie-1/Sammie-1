@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Samuel Oyegbami
 
-I'm a passionate **developer** with hands-on experience across **Next.js**,**React.js**, **Typescript**, **Express.js**, and **MongoDB**. Currently aspiring to break into **DevOps**, and I also write about **Web3 technologies** and development trends.
+I'm a passionate **developer** with hands-on experience across **Next.js**, **React.js**, **Typescript**, **Express.js**, and **MongoDB**. Currently aspiring to break into **DevOps**, and I also write about **Web3 technologies** and development trends.
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Frontend:** Typescript, React.js, HTML5, CSS3, Tailwind CSS, JavaScript
+- **Frontend:** Next JS, Typescript, React.js, HTML5, CSS3, Tailwind CSS, JavaScript.
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Tools & DevOps (aspiring):** Git, GitHub, Docker (learning), Linux CLI, CI/CD (learning)
