@@ -1,10 +1,7 @@
-# 👋 Hey there, I'm Samuel Oyegbami  
 
-### 🚀 Frontend Developer | Web3 Enthusiast  
+# 👋 Hi, I'm Samuel Oyegbami
 
-I’m a passionate frontend developer who loves crafting clean, responsive, and user-focused web experiences. I enjoy turning ideas into reality using modern web technologies — and I’m equally curious about how web3 is redefining the future of the internet.  
-
-💡 Always learning. Always building.  
+I'm a passionate **developer** with hands-on experience across **Next.js**, **React.js**, **Typescript**, **Express.js**, and **MongoDB**. Currently aspiring to break into **DevOps**, and I also write about **Web3 technologies** and development trends.
 
 ---
 
@@ -16,21 +13,16 @@ I’m a passionate frontend developer who loves crafting clean, responsive, and 
 
 ---
 
-### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sammie-1&show_icons=true&theme=tokyonight" alt="Samuel's GitHub stats" />
-</p>
+## 📫 Contact Me
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sammie-1&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammie-1&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+- 📨 **Email:** samuelifeoluwa914@gmail.com  
+- 🐦 **Twitter/X:** [@sam_mmie2](https://twitter.com/sam_mmie2)  
+- 💬 **Telegram:** [@sammie12224](https://t.me/sammie12224)  
 
 ---
+
+
 
 ### 🏆 GitHub Trophies  
 
@@ -40,12 +32,6 @@ I’m a passionate frontend developer who loves crafting clean, responsive, and 
 
 ---
 
-### 🌱 Currently  
 
-- 🛠️ Building cool interfaces with **Next.js + TypeScript**
-- 🔍 Exploring **Web3**, **AI**, and product design
-- 🧠 Learning more about **backend integration** and **scalability**
+> “Consistency builds momentum. Momentum builds mastery.”
 
----
-
-💬 *"Building things that make the web feel alive."*  
