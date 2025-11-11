@@ -1,27 +1,51 @@
-# 👋 Hi, I'm Samuel Oyegbami
+# 👋 Hey there, I'm Samuel Oyegbami  
 
-I'm a passionate **developer** with hands-on experience across **Next.js**, **React.js**, **Typescript**, **Express.js**, and **MongoDB**. Currently aspiring to break into **DevOps**, and I also write about **Web3 technologies** and development trends.
+### 🚀 Frontend Developer | Web3 Enthusiast  
 
----
+I’m a passionate frontend developer who loves crafting clean, responsive, and user-focused web experiences. I enjoy turning ideas into reality using modern web technologies — and I’m equally curious about how web3 is redefining the future of the internet.  
 
-## 🚀 Tech Stack
-
-- **Frontend:** Next JS, Typescript, React.js, HTML5, CSS3, Tailwind CSS, JavaScript.
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Tools & DevOps (aspiring):** Git, GitHub, Docker (learning), Linux CLI, CI/CD (learning)
-- **Other:** Web3 Writing, Markdown, Notion, Typefully
+💡 Always learning. Always building.  
 
 ---
 
-## 📫 Contact Me
+### 🧰 Tech Stack  
 
-- 📨 **Email:** samuelifeoluwa914@gmail.com  
-- 🐦 **Twitter/X:** [@sam_mmie2](https://twitter.com/sam_mmie2)  
-- 💬 **Telegram:** [@sammie12224](https://t.me/sammie12224)  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,html,css,tailwind,firebase,git,github,vscode,figma&perline=6" />
+</p>
 
 ---
 
+### 📊 GitHub Stats  
 
-> “Consistency builds momentum. Momentum builds mastery.”
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sammie-1&show_icons=true&theme=tokyonight" alt="Samuel's GitHub stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sammie-1&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammie-1&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sammie-1&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🌱 Currently  
+
+- 🛠️ Building cool interfaces with **Next.js + TypeScript**
+- 🔍 Exploring **Web3**, **AI**, and product design
+- 🧠 Learning more about **backend integration** and **scalability**
+
+---
+
+💬 *"Building things that make the web feel alive."*  
